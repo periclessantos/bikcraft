@@ -1,6 +1,9 @@
 @import url(global.css);
 @import url(utilidades/tipografia.css);
 @import url(utilidades/cores.css);
+@import url(utilidades/componentes.css);
 @import url(header.css);
 @import url(introducao.css);
-@import url(utilidades/componentes.css);
+@import url(bicicletas.css);
+@import url(tecnologia.css);
+@import url(parceiros.css);
