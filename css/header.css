@@ -10,6 +10,10 @@
   align-items: center;
 }
 
+.header.container {
+  padding: 10px 20px;
+}
+
 .header-menu {
   display: flex;
   flex-wrap: wrap;

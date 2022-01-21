@@ -10,3 +10,12 @@
 @import url(depoimento.css);
 @import url(seguros.css);
 @import url(footer.css);
+@import url(termos/termos.css);
+@import url(bicicletas/bicicletas.css);
+@import url(seguros/vantagens.css);
+@import url(seguros/perguntas.css);
+@import url(bicicleta/bicicleta.css);
+@import url(bicicleta/seguro.css);
+@import url(contato/contato.css);
+@import url(contato/lojas.css);
+@import url(utilidades/formulario.css);

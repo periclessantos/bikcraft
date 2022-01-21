@@ -10,7 +10,8 @@ h3,
 h4,
 ul,
 blockquote,
-p {
+p,
+dd {
   margin: 0px;
 }
 
@@ -28,7 +29,6 @@ img {
   max-width: 100%;
   display: block;
 }
-
 
 img[src$=".jpg"] {
   border-radius: 4px;
